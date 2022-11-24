@@ -1,2 +1,2 @@
 # React_Frontend
-This repository contains the react front simple projects
+This project is an assignment task from the internshala.com
